@@ -2,6 +2,8 @@
 
 A platform to report and track local civic issues within your neighborhood — empowering citizens to report, visualize, and follow up on problems like potholes, garbage dumps, or water leaks in real-time with location-based filtering and moderation tools.
 
+[LIVE DEMO](https://688de03b2e8ccea50121ae7f--civic-a.netlify.app/)
+
 ---
 
 ## Problem Statement: CivicTrack
@@ -89,3 +91,4 @@ npm run dev
 
 # Start development server
 npm run dev
+
