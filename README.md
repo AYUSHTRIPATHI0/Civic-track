@@ -17,6 +17,7 @@ Seamlessly track the resolution of these issues and foster effortless engagement
 - Issues visible only within 3–5 km radius
 - Report issues with title, description, category, and images (up to 3–5)
 
+
 ### Categories Supported
 - Roads, Water Supply, Cleanliness, Lighting, Public Safety, Obstructions
 
