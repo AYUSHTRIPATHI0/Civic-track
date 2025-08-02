@@ -1,0 +1,442 @@
+[
+  {
+    "title": "Open Manhole near Sector 16",
+    "description": "Large pothole causing traffic issues.",
+    "category": "Water",
+    "status": "Reported",
+    "location": {
+      "lat": 26.442324,
+      "lng": 80.234896
+    },
+    "distanceFromUser": 2.46,
+    "photos": [
+      "https://picsum.photos/300/200?random=101"
+    ],
+    "reporterType": "anonymous",
+    "createdAt": "2025-07-25T12:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-25T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Garbage Overflow near Sector 19",
+    "description": "Overflowing garbage creating foul smell.",
+    "category": "Safety",
+    "status": "Reported",
+    "location": {
+      "lat": 26.425466,
+      "lng": 80.240957
+    },
+    "distanceFromUser": 3.12,
+    "photos": [
+      "https://picsum.photos/300/200?random=102"
+    ],
+    "reporterType": "anonymous",
+    "createdAt": "2025-07-25T14:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-25T14:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Leaking Water Pipe near Sector 11",
+    "description": "Street light not working at night.",
+    "category": "Lighting",
+    "status": "Reported",
+    "location": {
+      "lat": 26.427538,
+      "lng": 80.266974
+    },
+    "distanceFromUser": 2.18,
+    "photos": [
+      "https://picsum.photos/300/200?random=103"
+    ],
+    "reporterType": "verified",
+    "createdAt": "2025-07-25T16:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-25T16:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Damaged Electric Pole near Sector 18",
+    "description": "Open manhole posing risk to pedestrians.",
+    "category": "Obstruction",
+    "status": "Reported",
+    "location": {
+      "lat": 26.442438,
+      "lng": 80.218482
+    },
+    "distanceFromUser": 4.31,
+    "photos": [
+      "https://picsum.photos/300/200?random=104"
+    ],
+    "reporterType": "verified",
+    "createdAt": "2025-07-25T18:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-25T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Waterlogged Street near Sector 18",
+    "description": "Water pipe leaking into the street.",
+    "category": "Cleanliness",
+    "status": "Reported",
+    "location": {
+      "lat": 26.475169,
+      "lng": 80.271786
+    },
+    "distanceFromUser": 1.88,
+    "photos": [
+      "https://picsum.photos/300/200?random=105"
+    ],
+    "reporterType": "anonymous",
+    "createdAt": "2025-07-25T20:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-25T20:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Construction Waste near Sector 17",
+    "description": "Construction material blocking footpath.",
+    "category": "Roads",
+    "status": "Reported",
+    "location": {
+      "lat": 26.465099,
+      "lng": 80.246194
+    },
+    "distanceFromUser": 0.88,
+    "photos": [
+      "https://picsum.photos/300/200?random=106"
+    ],
+    "reporterType": "verified",
+    "createdAt": "2025-07-25T22:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-25T22:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Blocked Drain near Sector 12",
+    "description": "Improper drainage causing water logging.",
+    "category": "Drainage",
+    "status": "Reported",
+    "location": {
+      "lat": 26.412419,
+      "lng": 80.217598
+    },
+    "distanceFromUser": 2.84,
+    "photos": [
+      "https://picsum.photos/300/200?random=107"
+    ],
+    "reporterType": "anonymous",
+    "createdAt": "2025-07-26T00:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-26T00:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Noise Pollution near Sector 1",
+    "description": "Broken electricity pole near main road.",
+    "category": "Electricity",
+    "status": "Reported",
+    "location": {
+      "lat": 26.436889,
+      "lng": 80.214533
+    },
+    "distanceFromUser": 3.26,
+    "photos": [
+      "https://picsum.photos/300/200?random=108"
+    ],
+    "reporterType": "verified",
+    "createdAt": "2025-07-26T02:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-26T02:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Pothole Danger near Sector 6",
+    "description": "High noise levels from ongoing construction.",
+    "category": "Garbage",
+    "status": "Reported",
+    "location": {
+      "lat": 26.415786,
+      "lng": 80.239391
+    },
+    "distanceFromUser": 2.03,
+    "photos": [
+      "https://picsum.photos/300/200?random=109"
+    ],
+    "reporterType": "anonymous",
+    "createdAt": "2025-07-26T04:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-26T04:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Non-functional Street Light near Sector 2",
+    "description": "Illegal dumping of waste in the area.",
+    "category": "Noise",
+    "status": "Reported",
+    "location": {
+      "lat": 26.423905,
+      "lng": 80.260105
+    },
+    "distanceFromUser": 1.41,
+    "photos": [
+      "https://picsum.photos/300/200?random=110"
+    ],
+    "reporterType": "anonymous",
+    "createdAt": "2025-07-26T06:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-26T06:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Open Manhole near Sector 22",
+    "description": "Large pothole causing traffic issues.",
+    "category": "Water",
+    "status": "Reported",
+    "location": {
+      "lat": 26.466066,
+      "lng": 80.213894
+    },
+    "distanceFromUser": 1.44,
+    "photos": [
+      "https://picsum.photos/300/200?random=111"
+    ],
+    "reporterType": "anonymous",
+    "createdAt": "2025-07-26T08:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-26T08:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Garbage Overflow near Sector 21",
+    "description": "Overflowing garbage creating foul smell.",
+    "category": "Safety",
+    "status": "Reported",
+    "location": {
+      "lat": 26.417659,
+      "lng": 80.268432
+    },
+    "distanceFromUser": 1.04,
+    "photos": [
+      "https://picsum.photos/300/200?random=112"
+    ],
+    "reporterType": "anonymous",
+    "createdAt": "2025-07-26T10:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-26T10:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Leaking Water Pipe near Sector 4",
+    "description": "Street light not working at night.",
+    "category": "Lighting",
+    "status": "Reported",
+    "location": {
+      "lat": 26.447795,
+      "lng": 80.289796
+    },
+    "distanceFromUser": 3.32,
+    "photos": [
+      "https://picsum.photos/300/200?random=113"
+    ],
+    "reporterType": "verified",
+    "createdAt": "2025-07-26T12:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-26T12:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Damaged Electric Pole near Sector 18",
+    "description": "Open manhole posing risk to pedestrians.",
+    "category": "Obstruction",
+    "status": "Reported",
+    "location": {
+      "lat": 26.416398,
+      "lng": 80.257258
+    },
+    "distanceFromUser": 2.89,
+    "photos": [
+      "https://picsum.photos/300/200?random=114"
+    ],
+    "reporterType": "verified",
+    "createdAt": "2025-07-26T14:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-26T14:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Waterlogged Street near Sector 6",
+    "description": "Water pipe leaking into the street.",
+    "category": "Cleanliness",
+    "status": "Reported",
+    "location": {
+      "lat": 26.425005,
+      "lng": 80.232056
+    },
+    "distanceFromUser": 3.07,
+    "photos": [
+      "https://picsum.photos/300/200?random=115"
+    ],
+    "reporterType": "verified",
+    "createdAt": "2025-07-26T16:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-26T16:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Construction Waste near Sector 24",
+    "description": "Construction material blocking footpath.",
+    "category": "Roads",
+    "status": "Reported",
+    "location": {
+      "lat": 26.477874,
+      "lng": 80.257796
+    },
+    "distanceFromUser": 1.01,
+    "photos": [
+      "https://picsum.photos/300/200?random=116"
+    ],
+    "reporterType": "anonymous",
+    "createdAt": "2025-07-26T18:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-26T18:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Blocked Drain near Sector 14",
+    "description": "Improper drainage causing water logging.",
+    "category": "Drainage",
+    "status": "Reported",
+    "location": {
+      "lat": 26.470894,
+      "lng": 80.267283
+    },
+    "distanceFromUser": 1.51,
+    "photos": [
+      "https://picsum.photos/300/200?random=117"
+    ],
+    "reporterType": "verified",
+    "createdAt": "2025-07-26T20:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-26T20:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Noise Pollution near Sector 11",
+    "description": "Broken electricity pole near main road.",
+    "category": "Electricity",
+    "status": "Reported",
+    "location": {
+      "lat": 26.43063,
+      "lng": 80.249217
+    },
+    "distanceFromUser": 2.48,
+    "photos": [
+      "https://picsum.photos/300/200?random=118"
+    ],
+    "reporterType": "verified",
+    "createdAt": "2025-07-26T22:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-26T22:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Pothole Danger near Sector 5",
+    "description": "High noise levels from ongoing construction.",
+    "category": "Garbage",
+    "status": "Reported",
+    "location": {
+      "lat": 26.428124,
+      "lng": 80.287925
+    },
+    "distanceFromUser": 3.16,
+    "photos": [
+      "https://picsum.photos/300/200?random=119"
+    ],
+    "reporterType": "anonymous",
+    "createdAt": "2025-07-27T00:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-27T00:00:00Z"
+      }
+    ]
+  },
+  {
+    "title": "Non-functional Street Light near Sector 8",
+    "description": "Illegal dumping of waste in the area.",
+    "category": "Noise",
+    "status": "Reported",
+    "location": {
+      "lat": 26.422174,
+      "lng": 80.263545
+    },
+    "distanceFromUser": 3.62,
+    "photos": [
+      "https://picsum.photos/300/200?random=120"
+    ],
+    "reporterType": "verified",
+    "createdAt": "2025-07-27T02:00:00Z",
+    "statusLogs": [
+      {
+        "status": "Reported",
+        "timestamp": "2025-07-27T02:00:00Z"
+      }
+    ]
+  }
+]
